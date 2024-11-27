@@ -37,3 +37,16 @@ job-board
 
 saltar la parte de backend.
 mostrar cómo graphql trabaja interiormente para otorgar los datos solicitados (crear diapositivas)
+
+client
+
+https://github.com/graphql-by-example/job-board/commit/c3ec082d19b83e0734e7e37372afe02673a60c59#diff-31fc4989ae06728b65bd6601c18e115c0f5f4cd6471245716388c7984ffe85f8R19
+
+https://github.com/graphql-by-example/job-board/commit/77c26835e978a6ccffee8c86e8141ccfae95a702#diff-10aa56eb9308731334a7125d59cc8433dd8c91a9838250da04c13087e2b58fd7R8
+
+https://github.com/graphql-by-example/job-board/commit/a6ce562fd882a9ae5fe595ff313b8a67125f2e22
+
+query arguments
+query variables
+
+Mutations (tag )
