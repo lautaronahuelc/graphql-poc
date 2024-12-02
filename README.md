@@ -49,4 +49,19 @@ https://github.com/graphql-by-example/job-board/commit/a6ce562fd882a9ae5fe595ff3
 query arguments
 query variables
 
-Mutations (tag )
+Mutations
+
+alice@facegle.io
+alice123
+
+como se definen en el schema
+como se define en el resolver
+mostrar ejemplo en apollo server
+como pasar muchos parametros
+https://github.com/graphql-by-example/job-board/commit/73fed9aedbb977adc57c739a56d388cfa26b5f1d
+mutation en React
+https://github.com/graphql-by-example/job-board/commit/5af87a31b91db9e537b5879a62262953737bbcb6
+
+apollo client
+graphql-request está bien para ayudarnos con algunas peticiones ligeras pero para ocaciones donde necesitemos más features, tenemos apollo client (por ejemplo el caching y useQuery hook para obtener el loading, error y data ya manejados)
+
