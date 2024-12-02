@@ -65,3 +65,13 @@ https://github.com/graphql-by-example/job-board/commit/5af87a31b91db9e537b5879a6
 apollo client
 graphql-request está bien para ayudarnos con algunas peticiones ligeras pero para ocaciones donde necesitemos más features, tenemos apollo client (por ejemplo el caching y useQuery hook para obtener el loading, error y data ya manejados)
 
+caching
+setear apollo client
+https://github.com/graphql-by-example/job-board/commit/4d5f9469c93a4032c0549941322294b6a575a6b5#diff-31fc4989ae06728b65bd6601c18e115c0f5f4cd6471245716388c7984ffe85f8R18
+cambiar las request de graphql-request por @apollo/client
+https://github.com/graphql-by-example/job-board/commit/4663b7f3e52099d6a8d8f9f76f98254f8b1446d7#diff-31fc4989ae06728b65bd6601c18e115c0f5f4cd6471245716388c7984ffe85f8R78
+
+
+
+
+
